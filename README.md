@@ -1,2 +1,1 @@
 # vanillaJSChallenge
-Created with CodeSandbox
