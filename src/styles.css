@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+}
+
+#table {
+  width: 70%;
+}
+
+.header {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.header div {
+  width: 25%;
+  margin-right: 5px;
+  padding: 0 5px 0 5px;
+  font-size: small;
+  font-style: italic;
+}
+
+.item {
+  display: flex;
+}
+
+.item div {
+  width: 25%;
+  padding: 3px 5px 0 5px;
+  border-bottom: 1px solid;
+}
+
+#table .item:nth-child(even) {
+  background: lightgray;
+}
+
+.extra {
+  background: orange;
+}
