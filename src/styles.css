@@ -34,5 +34,5 @@ body {
 }
 
 .extra {
-  background: orange;
+  background: orange !important;
 }
